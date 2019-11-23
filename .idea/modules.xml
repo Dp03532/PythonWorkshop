@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Darvis Protocol.iml" filepath="$PROJECT_DIR$/.idea/Darvis Protocol.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../PythonWorkspace/.idea/PythonWorkspace.iml" filepath="$PROJECT_DIR$/../PythonWorkspace/.idea/PythonWorkspace.iml" />
+    </modules>
+  </component>
+</project>
